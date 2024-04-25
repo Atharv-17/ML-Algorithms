@@ -1,0 +1,10 @@
+This data displays the result of the study in which participants were evaluated and scored for physical ability and 
+then had to take an audio test (pass/no pass) which evaluated their ability to hear high frequencies. The age of the user was also noted. 
+
+
+Features
+age - Age of participant in years
+physical_score - Score achieved during physical exam
+
+Label/Target
+test_result - 0 if no pass, 1 if test passed
