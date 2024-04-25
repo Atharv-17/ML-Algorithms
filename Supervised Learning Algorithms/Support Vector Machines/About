@@ -1,0 +1,26 @@
+Classification Task----
+The data shown here simulates a medical study in which mice infected with a virus were given various doses of two medicines and then checked 2 weeks later to see if they were still infected. Given this data, our goal is to create a classifcation model than predict (given two dosage measurements) if they mouse will still be infected with the virus.
+
+You will notice the groups are very separable, this is on purpose, to explore how the various parameters of an SVM model behave.
+
+
+
+
+Regression Task----
+Our data set consists of various cement properties and the resulting slump test metrics in cm. Later on the set concrete is tested for its compressive strength 28 days later.
+Input variables (7)(component kg in one M^3 concrete):
+
+Cement
+Slag
+Fly ash
+Water
+SP
+Coarse Aggr.
+Fine Aggr.
+Output variables (3):
+
+SLUMP (cm)
+FLOW (cm)
+28-day Compressive Strength (Mpa)
+
+Data Source: https://archive.ics.uci.edu/ml/datasets/Concrete+Slump+Test
