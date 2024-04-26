@@ -5,7 +5,7 @@ Welcome to my machine learning mini projects repository! This repository contain
 ## Course Information
 
 - **Course Name:** Python for Machine Learning & Data Science Masterclass
-- **Certificate:** [Certificate](https://drive.google.com/file/d/1ajADqZP-FGuPqquu4ErBuQ_1OIwOXaSD/view?usp=drivesdk)
+- **Certificate:** [Certificate](https://www.udemy.com/certificate/UC-aa1028fb-2ca2-4a6d-bae9-99c294668875/)
 
 ## Contents
 
